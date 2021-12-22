@@ -18,7 +18,7 @@ this graph is used to look at the difference year to year on gold, and displays 
 
 # Tableau Dashboard:
 
-![Dashboard]("TableauDashboard.png")
+![Dashboard](TableauDashboard.png)
 
 
 
